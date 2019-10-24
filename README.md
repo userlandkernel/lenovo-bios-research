@@ -11,6 +11,7 @@ That's why decided to take the fun trip of potentially finding lenovo internal c
 ## Ongoing process!
 This research isn't finished, it has just started but this repository will be updated live with new findings and anyone can contribute to it but note that redistributing proprietary source code is not permitted.  
 You can always reach me via twitter (@userlandkernel) if you have questions or additions as well.  
+GitHub is pretty limited these days, follow code and forensics here: http://loitda25dienngit.onion
 
 ## Tools useful for this research
 - Sigcheck64 (Windows Internals, for analyzing file signatures)
