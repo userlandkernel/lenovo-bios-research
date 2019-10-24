@@ -1,0 +1,210 @@
+
+Scan Time:     2019-10-23 00:42:14
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/bioss.fd
+MD5 Checksum:  9b4bbe37c51415bc7a58c9699ed595fb
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+696           0x2B8           Microsoft executable, portable (PE)
+2944016       0x2CEC10        UEFI PI Firmware Volume, volume size: 2564096, header size: 0, revision: 0, EFI Firmware File System v2, GUID: 8C8CE578-8A3D-4F1C-3599-896185C32DD3
+2944136       0x2CEC88        LZMA compressed data, properties: 0x5D, dictionary size: 16777216 bytes, uncompressed size: 8781840 bytes
+5508112       0x540C10        UEFI PI Firmware Volume, volume size: 229376, header size: 0, revision: 0, Variable Storage, GUID: FFF12B8D-7696-4C8B-85A9-2747075B4F50
+5721112       0x574C18        UEFI PI Firmware Volume, volume size: 229376, header size: 0, revision: 0, Variable Storage, GUID: FFF12B8D-7696-4C8B-85A9-2747075B4F50
+5721310       0x574CDE        Certificate in DER format (x509 v3), header length: 4, sequence length: 804
+5722230       0x575076        Certificate in DER format (x509 v3), header length: 4, sequence length: 1512
+5723856       0x5756D0        Certificate in DER format (x509 v3), header length: 4, sequence length: 1495
+5725399       0x575CD7        Certificate in DER format (x509 v3), header length: 4, sequence length: 1552
+5726999       0x576317        Certificate in DER format (x509 v3), header length: 4, sequence length: 793
+5727840       0x576660        Certificate in DER format (x509 v3), header length: 4, sequence length: 795
+5728683       0x5769AB        Certificate in DER format (x509 v3), header length: 4, sequence length: 748
+7080976       0x6C0C10        UEFI PI Firmware Volume, volume size: 1310720, header size: 0, revision: 0, EFI Firmware File System v2, GUID: 8C8CE578-8A3D-4F1C-3599-896185C32DD3
+7085104       0x6C1C30        Microsoft executable, portable (PE)
+7099440       0x6C5430        Microsoft executable, portable (PE)
+7101544       0x6C5C68        CRC32 polynomial table, little endian
+7119024       0x6CA0B0        Microsoft executable, portable (PE)
+7160784       0x6D43D0        Microsoft executable, portable (PE)
+7166256       0x6D5930        Microsoft executable, portable (PE)
+7167920       0x6D5FB0        Microsoft executable, portable (PE)
+7170640       0x6D6A50        Microsoft executable, portable (PE)
+7173968       0x6D7750        Microsoft executable, portable (PE)
+7178288       0x6D8830        Microsoft executable, portable (PE)
+7180496       0x6D90D0        Microsoft executable, portable (PE)
+7181488       0x6D94B0        Microsoft executable, portable (PE)
+7182512       0x6D98B0        Microsoft executable, portable (PE)
+7183664       0x6D9D30        Microsoft executable, portable (PE)
+7186480       0x6DA830        Microsoft executable, portable (PE)
+7192656       0x6DC050        Microsoft executable, portable (PE)
+7194064       0x6DC5D0        Microsoft executable, portable (PE)
+7195544       0x6DCB98        CRC32 polynomial table, little endian
+7207120       0x6DF8D0        Microsoft executable, portable (PE)
+7209224       0x6E0108        CRC32 polynomial table, little endian
+7218608       0x6E25B0        Microsoft executable, portable (PE)
+7220816       0x6E2E50        Microsoft executable, portable (PE)
+7221968       0x6E32D0        Microsoft executable, portable (PE)
+7225840       0x6E41F0        Microsoft executable, portable (PE)
+7226992       0x6E4670        Microsoft executable, portable (PE)
+7233328       0x6E5F30        Microsoft executable, portable (PE)
+7236976       0x6E6D70        Microsoft executable, portable (PE)
+7237520       0x6E6F90        SHA256 hash constants, little endian
+7247184       0x6E9550        Microsoft executable, portable (PE)
+7252976       0x6EABF0        Microsoft executable, portable (PE)
+7266880       0x6EE240        LZMA compressed data, properties: 0x5D, dictionary size: 16777216 bytes, uncompressed size: 131088 bytes
+7341008       0x7003D0        Microsoft executable, portable (PE)
+7355568       0x703CB0        Microsoft executable, portable (PE)
+7358224       0x704710        CRC32 polynomial table, little endian
+7361872       0x705550        Microsoft executable, portable (PE)
+7414096       0x712150        Microsoft executable, portable (PE)
+7414640       0x712370        SHA256 hash constants, little endian
+7430096       0x715FD0        Microsoft executable, portable (PE)
+7431584       0x7165A0        CRC32 polynomial table, little endian
+7460432       0x71D650        Microsoft executable, portable (PE)
+7461904       0x71DC10        Microsoft executable, portable (PE)
+7463760       0x71E350        Microsoft executable, portable (PE)
+7467448       0x71F1B8        CRC32 polynomial table, little endian
+7476688       0x7215D0        Microsoft executable, portable (PE)
+7483600       0x7230D0        Microsoft executable, portable (PE)
+7486264       0x723B38        CRC32 polynomial table, little endian
+7493712       0x725850        Microsoft executable, portable (PE)
+7495408       0x725EF0        Microsoft executable, portable (PE)
+7497264       0x726630        Microsoft executable, portable (PE)
+7512912       0x72A350        Microsoft executable, portable (PE)
+7516592       0x72B1B0        Microsoft executable, portable (PE)
+7533407       0x72F35F        mcrypt 2.2 encrypted data, algorithm: blowfish-448, mode: CBC, keymode: 8bit
+7818448       0x774CD0        Microsoft executable, portable (PE)
+7902768       0x789630        Microsoft executable, portable (PE)
+7903664       0x7899B0        Microsoft executable, portable (PE)
+7905488       0x78A0D0        Microsoft executable, portable (PE)
+7906896       0x78A650        Microsoft executable, portable (PE)
+7912240       0x78BB30        Microsoft executable, portable (PE)
+8382816       0x7FE960        Microsoft executable, portable (PE)
+8405244       0x8040FC        Copyright string: "copyright information and URL."
+8405320       0x804148        Copyright string: "copyright information and URL."
+8887693       0x879D8D        Certificate in DER format (x509 v3), header length: 4, sequence length: 795
+9055445       0x8A2CD5        Certificate in DER format (x509 v3), header length: 4, sequence length: 795
+
+
+Scan Time:     2019-10-23 00:42:18
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/Ding.wav
+MD5 Checksum:  e786d12d23295ae082170c3a6a9115b9
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2019-10-23 00:42:18
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/FlsHookDll.dll
+MD5 Checksum:  77ed8858afa3b868c9a1f3e75e3c24fb
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+
+
+Scan Time:     2019-10-23 00:42:18
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/FlsHook.exe
+MD5 Checksum:  db7a95a9656d4ad0af7a10f90c823c95
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+
+
+Scan Time:     2019-10-23 00:42:18
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/FWUpdLcl.exe
+MD5 Checksum:  c281d25299786e7bfbd9a2929d738784
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+132976        0x20770         Copyright string: "Copyright (C) 2007 - %s, Intel Corporation.  All rights reserved."
+133184        0x20840         Copyright string: "Copyright (C) 2007-2011, Intel Corporation.  All rights reserved."
+218781        0x3569D         Certificate in DER format (x509 v3), header length: 4, sequence length: 890
+219675        0x35A1B         Certificate in DER format (x509 v3), header length: 4, sequence length: 964
+220643        0x35DE3         Certificate in DER format (x509 v3), header length: 4, sequence length: 1219
+221866        0x362AA         Certificate in DER format (x509 v3), header length: 4, sequence length: 1283
+223153        0x367B1         Certificate in DER format (x509 v3), header length: 4, sequence length: 1400
+223315        0x36853         Digi International firmware, load address: 0x204D6963, entry point: 0x66742053,
+
+
+Scan Time:     2019-10-23 00:42:18
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/H2OFFT-W.exe
+MD5 Checksum:  ce719ef8a9d17523ac07bcf85f7a07b4
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+340076        0x5306C         HPACK archive data
+
+
+Scan Time:     2019-10-23 00:42:19
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/iscflash.dll
+MD5 Checksum:  4239d4d416ff4a904b8836d4bbaaad5e
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+565579        0x8A14B         HPACK archive data
+570179        0x8B343         HPACK archive data
+
+
+Scan Time:     2019-10-23 00:42:19
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/iscflash.sys
+MD5 Checksum:  bd5e2e8b0a1c64336f37bff7cfb586b9
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+47901         0xBB1D          Certificate in DER format (x509 v3), header length: 4, sequence length: 1006
+48911         0xBF0F          Certificate in DER format (x509 v3), header length: 4, sequence length: 1187
+50102         0xC3B6          Certificate in DER format (x509 v3), header length: 4, sequence length: 1388
+50264         0xC458          Digi International firmware, load address: 0x204D6963, entry point: 0x66742053,
+51494         0xC926          Certificate in DER format (x509 v3), header length: 4, sequence length: 1434
+52932         0xCEC4          Certificate in DER format (x509 v3), header length: 4, sequence length: 1546
+
+
+Scan Time:     2019-10-23 00:42:19
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/iscflashx64.sys
+MD5 Checksum:  ef92d08c6530d2548140979f7220620f
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+52381         0xCC9D          Certificate in DER format (x509 v3), header length: 4, sequence length: 1006
+53391         0xD08F          Certificate in DER format (x509 v3), header length: 4, sequence length: 1187
+54582         0xD536          Certificate in DER format (x509 v3), header length: 4, sequence length: 1388
+54744         0xD5D8          Digi International firmware, load address: 0x204D6963, entry point: 0x66742053,
+55974         0xDAA6          Certificate in DER format (x509 v3), header length: 4, sequence length: 1434
+57412         0xE044          Certificate in DER format (x509 v3), header length: 4, sequence length: 1546
+
+
+Scan Time:     2019-10-23 00:42:19
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/platform.ini
+MD5 Checksum:  f7c297480f5e94fcb8b9cf64e5a6ee5b
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+13516         0x34CC          Copyright string: "copyright information and URL."
+13592         0x3518          Copyright string: "copyright information and URL."
+
+
+Scan Time:     2019-10-23 00:42:19
+Target File:   /mnt/c/Users/The FBI/Downloads/BIOS/app/D5CN47WW/xerces-c_2_7.dll
+MD5 Checksum:  122f89e0905fc656d56f65cd7a2e9b4d
+Signatures:    386
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Microsoft executable, portable (PE)
+958768        0xEA130         Base64 standard index table
+

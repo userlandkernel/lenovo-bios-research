@@ -1,0 +1,10 @@
+C:\Users\The FBI\Downloads\BIOS\app\D5CN47WW\FWUpdLcl.exe:
+	Verified:	Signed
+	Signing date:	07:37 29-3-2012
+	Publisher:	Intel Corporation
+	Company:	Intel Corporation
+	Description:	Intel (R) Firmware Update Utility
+	Product:	Intel (R) Firmware Update Utility
+	Prod version:	8.0.10.1464
+	File version:	8.0.10.1464
+	MachineType:	32-bit

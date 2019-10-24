@@ -1,0 +1,10 @@
+C:\Users\The FBI\Downloads\BIOS\app\D5CN47WW\FlsHookDll.dll:
+	Verified:	Unsigned
+	Link date:	08:03 27-2-2013
+	Publisher:	n/a
+	Company:	Insyde Software Corp.
+	Description:	InsydeFlash Application
+	Product:	InsydeFlash Application
+	Prod version:	1.0.0.1
+	File version:	1.0.0.1
+	MachineType:	32-bit
